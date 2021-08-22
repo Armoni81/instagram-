@@ -1,2 +1,5 @@
 This is the official instagram app : below are updates 
 im under the logo branch: "add logo" 
+added colors (green yellow and blue)
+added yellow send button, group video calls, emojis and stickers 
+added games such as tic tac toe, eye spy, connect four and solitare 
